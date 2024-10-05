@@ -1,0 +1,14 @@
+This project is a card display built using **Next.js** and **Tailwind CSS**. It dynamically presents student information with smooth hover effects. The cards scale up and reveal a black shadow when hovered, enhancing the user experience. Tailwind's utility-first approach has been used to implement custom transitions, transformations, and shadows.
+
+## Features:
+- Responsive design with Tailwind CSS
+- Smooth hover effect with a 1.5s transition
+- Scale-up effect with shadow on hover
+- Built with modern web technologies (Next.js & Tailwind CSS)
+
+## Tech Stack:
+- Next.js (React framework)
+- Tailwind CSS (Utility-first CSS framework)
+
+Feel free to explore the project and leave feedback!
+
